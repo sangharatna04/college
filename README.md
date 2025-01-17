@@ -1,3 +1,4 @@
 # college
-this is my first repository <br>
-author: sangharatna 
+This is my first repository <br>
+Author: sangharatna tembhurne 
+age:20
